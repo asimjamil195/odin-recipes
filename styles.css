@@ -1,0 +1,44 @@
+
+body{
+    background-image: url('https://www.allrecipes.com/thmb/nb2eEifCwlw1yc5gnXMwBy4BkXQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23600-worlds-best-lasagna-DDMFS-2x1-1193-40ded59b2a224312b66bdafbb885adc0.jpg');
+background-repeat: no-repeat;
+background-size: cover; 
+background-blend-mode: lighten;
+
+
+}
+.heading{
+    background-color: rgb(164, 208, 208);
+    width: 300px;
+    margin: 10px;
+    /* margin-left: 500px; */
+    padding: 20px;
+    border: 2px solid pink;
+    text-align: center;
+    border-radius: 6rem;
+
+}
+
+p{
+    color:red;
+
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:40px;
+    width: 400px;
+    padding: 40px;
+    margin: 10px;
+    background-color: rgb(156, 197, 197);
+    
+    border-radius: 10rem; 
+   
+}
+a{
+    color: rgb(12, 11, 11);
+    background: none;
+    font-size: larger;
+    font: bold;
+
+    
+}
